@@ -1,0 +1,104 @@
+C:\Users\Wilman\Desktop\week1\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Wilman\Desktop\week1\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Wilman\Desktop\week1\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Wilman\Desktop\week1\WebApplication1\WebApplication1\bin\WebApplication1.xml
+C:\Users\Wilman\Desktop\week1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Resources.resources
+C:\Users\Wilman\Desktop\week1\WebApplication1\WebApplication1\obj\Debug\Wilman'sGames.vbproj.GenerateResource.Cache
+C:\Users\Wilman\Desktop\week1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Wilman\Desktop\week1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.xml
+C:\Users\Wilman\Desktop\week1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Wilman\Desktop\week2\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Resources.resources
+C:\Users\Wilman\Desktop\week2\WebApplication1\WebApplication1\obj\Debug\Wilman'sGames.vbproj.GenerateResource.Cache
+C:\Users\Wilman\Desktop\week2\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Wilman\Desktop\week2\WebApplication1\WebApplication1\obj\Debug\WebApplication1.xml
+C:\Users\Wilman\Desktop\week2\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Wilman\Desktop\week2\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Wilman\Desktop\week2\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Wilman\Desktop\week2\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Wilman\Desktop\week2\WebApplication1\WebApplication1\bin\WebApplication1.xml
+C:\Users\Wilman\Desktop\Wilman'sGames-wk2\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Wilman\Desktop\Wilman'sGames-wk2\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Wilman\Desktop\Wilman'sGames-wk2\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Wilman\Desktop\Wilman'sGames-wk2\WebApplication1\WebApplication1\bin\WebApplication1.xml
+C:\Users\Wilman\Desktop\Wilman'sGames-wk2\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Resources.resources
+C:\Users\Wilman\Desktop\Wilman'sGames-wk2\WebApplication1\WebApplication1\obj\Debug\Wilman'sGames.vbproj.GenerateResource.Cache
+C:\Users\Wilman\Desktop\Wilman'sGames-wk2\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Wilman\Desktop\Wilman'sGames-wk2\WebApplication1\WebApplication1\obj\Debug\WebApplication1.xml
+C:\Users\Wilman\Desktop\Wilman'sGames-wk2\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Wilman\Desktop\Wilman'sGames-wk3\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Wilman\Desktop\Wilman'sGames-wk3\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Wilman\Desktop\Wilman'sGames-wk3\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Wilman\Desktop\Wilman'sGames-wk3\WebApplication1\WebApplication1\bin\WebApplication1.xml
+C:\Users\Wilman\Desktop\Wilman'sGames-wk3\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Resources.resources
+C:\Users\Wilman\Desktop\Wilman'sGames-wk3\WebApplication1\WebApplication1\obj\Debug\Wilman'sGames.vbproj.GenerateResource.Cache
+C:\Users\Wilman\Desktop\Wilman'sGames-wk3\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Wilman\Desktop\Wilman'sGames-wk3\WebApplication1\WebApplication1\obj\Debug\WebApplication1.xml
+C:\Users\Wilman\Desktop\Wilman'sGames-wk3\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Wilman\Desktop\Wilman'sGames-wk3\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Wilman\Desktop\Wilman'sGames-wk3\WebApplication1\WebApplication1\obj\Debug\Wilman'sGames.vbprojResolveAssemblyReference.cache
+C:\Users\Wilman\Desktop\Wilman'sGames-wk4\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Wilman\Desktop\Wilman'sGames-wk4\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Wilman\Desktop\Wilman'sGames-wk4\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Wilman\Desktop\Wilman'sGames-wk4\WebApplication1\WebApplication1\bin\WebApplication1.xml
+C:\Users\Wilman\Desktop\Wilman'sGames-wk4\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Wilman\Desktop\Wilman'sGames-wk4\WebApplication1\WebApplication1\obj\Debug\Wilman'sGames.vbprojResolveAssemblyReference.cache
+C:\Users\Wilman\Desktop\Wilman'sGames-wk4\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Resources.resources
+C:\Users\Wilman\Desktop\Wilman'sGames-wk4\WebApplication1\WebApplication1\obj\Debug\Wilman'sGames.vbproj.GenerateResource.Cache
+C:\Users\Wilman\Desktop\Wilman'sGames-wk4\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Wilman\Desktop\Wilman'sGames-wk4\WebApplication1\WebApplication1\obj\Debug\WebApplication1.xml
+C:\Users\Wilman\Desktop\Wilman'sGames-wk4\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Wilman\Desktop\Wilman'sGames-wk5\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Wilman\Desktop\Wilman'sGames-wk5\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Wilman\Desktop\Wilman'sGames-wk5\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Wilman\Desktop\Wilman'sGames-wk5\WebApplication1\WebApplication1\bin\WebApplication1.xml
+C:\Users\Wilman\Desktop\Wilman'sGames-wk5\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Wilman\Desktop\Wilman'sGames-wk5\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Resources.resources
+C:\Users\Wilman\Desktop\Wilman'sGames-wk5\WebApplication1\WebApplication1\obj\Debug\Wilman'sGames.vbproj.GenerateResource.Cache
+C:\Users\Wilman\Desktop\Wilman'sGames-wk5\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Wilman\Desktop\Wilman'sGames-wk5\WebApplication1\WebApplication1\obj\Debug\WebApplication1.xml
+C:\Users\Wilman\Desktop\Wilman'sGames-wk5\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Wilman\Desktop\Wilman'sGames-wk5\WebApplication1\WebApplication1\obj\Debug\Wilman'sGames.vbprojResolveAssemblyReference.cache
+C:\Users\Wilman\Desktop\ENTD462 D001 Sum 15\Wilman'sGames-wk5\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Wilman\Desktop\ENTD462 D001 Sum 15\Wilman'sGames-wk5\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Wilman\Desktop\ENTD462 D001 Sum 15\Wilman'sGames-wk5\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Wilman\Desktop\ENTD462 D001 Sum 15\Wilman'sGames-wk5\WebApplication1\WebApplication1\bin\WebApplication1.xml
+C:\Users\Wilman\Desktop\ENTD462 D001 Sum 15\Wilman'sGames-wk5\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Wilman\Desktop\ENTD462 D001 Sum 15\Wilman'sGames-wk5\WebApplication1\WebApplication1\obj\Debug\Wilman'sGames.vbprojResolveAssemblyReference.cache
+C:\Users\Wilman\Desktop\ENTD462 D001 Sum 15\Wilman'sGames-wk5\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Resources.resources
+C:\Users\Wilman\Desktop\ENTD462 D001 Sum 15\Wilman'sGames-wk5\WebApplication1\WebApplication1\obj\Debug\Wilman'sGames.vbproj.GenerateResource.Cache
+C:\Users\Wilman\Desktop\ENTD462 D001 Sum 15\Wilman'sGames-wk5\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Wilman\Desktop\ENTD462 D001 Sum 15\Wilman'sGames-wk5\WebApplication1\WebApplication1\obj\Debug\WebApplication1.xml
+C:\Users\Wilman\Desktop\ENTD462 D001 Sum 15\Wilman'sGames-wk5\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Wilman\Desktop\Wilman'sGames-wk6\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Wilman\Desktop\Wilman'sGames-wk6\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Wilman\Desktop\Wilman'sGames-wk6\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Wilman\Desktop\Wilman'sGames-wk6\WebApplication1\WebApplication1\bin\WebApplication1.xml
+C:\Users\Wilman\Desktop\Wilman'sGames-wk6\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Wilman\Desktop\Wilman'sGames-wk6\WebApplication1\WebApplication1\obj\Debug\Wilman'sGames.vbprojResolveAssemblyReference.cache
+C:\Users\Wilman\Desktop\Wilman'sGames-wk6\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Resources.resources
+C:\Users\Wilman\Desktop\Wilman'sGames-wk6\WebApplication1\WebApplication1\obj\Debug\Wilman'sGames.vbproj.GenerateResource.Cache
+C:\Users\Wilman\Desktop\Wilman'sGames-wk6\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Wilman\Desktop\Wilman'sGames-wk6\WebApplication1\WebApplication1\obj\Debug\WebApplication1.xml
+C:\Users\Wilman\Desktop\Wilman'sGames-wk6\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Wilman\Desktop\Wilman'sGames-wk7\WebApplication1\WebApplication1\obj\Debug\Wilman'sGames.vbprojResolveAssemblyReference.cache
+C:\Users\Wilman\Desktop\Wilman'sGames-wk7\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Resources.resources
+C:\Users\Wilman\Desktop\Wilman'sGames-wk7\WebApplication1\WebApplication1\obj\Debug\Wilman'sGames.vbproj.GenerateResource.Cache
+C:\Users\Wilman\Desktop\Wilman'sGames-wk7\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Wilman\Desktop\Wilman'sGames-wk7\WebApplication1\WebApplication1\obj\Debug\WebApplication1.xml
+C:\Users\Wilman\Desktop\Wilman'sGames-wk7\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Wilman\Desktop\Wilman'sGames-wk7\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Wilman\Desktop\Wilman'sGames-wk7\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Wilman\Desktop\Wilman'sGames-wk7\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Wilman\Desktop\Wilman'sGames-wk7\WebApplication1\WebApplication1\bin\WebApplication1.xml
+C:\Users\Wilman\Desktop\Wilman'sGames-wk7\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+D:\Desktop\School\ENTD462 D001 Sum 15\Assignment7\Wilman'sGames-wk7\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\Desktop\School\ENTD462 D001 Sum 15\Assignment7\Wilman'sGames-wk7\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\Desktop\School\ENTD462 D001 Sum 15\Assignment7\Wilman'sGames-wk7\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\Desktop\School\ENTD462 D001 Sum 15\Assignment7\Wilman'sGames-wk7\WebApplication1\WebApplication1\bin\WebApplication1.xml
+D:\Desktop\School\ENTD462 D001 Sum 15\Assignment7\Wilman'sGames-wk7\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+D:\Desktop\School\ENTD462 D001 Sum 15\Assignment7\Wilman'sGames-wk7\WebApplication1\WebApplication1\obj\Debug\Wilman'sGames.vbprojResolveAssemblyReference.cache
+D:\Desktop\School\ENTD462 D001 Sum 15\Assignment7\Wilman'sGames-wk7\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Resources.resources
+D:\Desktop\School\ENTD462 D001 Sum 15\Assignment7\Wilman'sGames-wk7\WebApplication1\WebApplication1\obj\Debug\Wilman'sGames.vbproj.GenerateResource.Cache
+D:\Desktop\School\ENTD462 D001 Sum 15\Assignment7\Wilman'sGames-wk7\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Desktop\School\ENTD462 D001 Sum 15\Assignment7\Wilman'sGames-wk7\WebApplication1\WebApplication1\obj\Debug\WebApplication1.xml
+D:\Desktop\School\ENTD462 D001 Sum 15\Assignment7\Wilman'sGames-wk7\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

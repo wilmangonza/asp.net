@@ -1,0 +1,68 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="MasterPage.Master.vb" Inherits="WebApplication1.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Wilman's Games</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link rel="stylesheet" type="text/css" href="StyleSheet1.css" />        
+    <style type="text/css">
+         
+       .auto-style5 {
+            width:1024px;
+            height:768px;
+        }
+           
+        .auto-style2 {
+            width:800px;
+            height:600px;
+        }              
+    </style>
+        
+</head>
+
+
+
+
+<body>
+    <form id="form1" runat="server">
+        <table border="1">
+            <tr>
+                <td colspan="2" class="auto-style3">
+                    <h1>Wilman&#39;s Games</h1>
+                    <asp:Menu ID="Menu1" runat="server" Orientation="Horizontal">
+                        <StaticMenuStyle CssClass="MenuStyle"/><Items>
+                               <asp:MenuItem Text="Home" Value="Home" NavigateUrl="~/Home.aspx"></asp:MenuItem>
+                               <asp:MenuItem Text="InsertGame" Value="InsertGame" NavigateUrl="~/InsertGame.aspx"></asp:MenuItem>
+                               <asp:MenuItem Text="GameCollection" Value="GameCollection" NavigateUrl="~/GameCollection.aspx"></asp:MenuItem>
+                              <asp:MenuItem Text="View Details" Value="ViewDetails" NavigateUrl="~/ViewDetails.aspx"></asp:MenuItem>
+                               <asp:MenuItem Text="HandheldGames" Value="HandheldGames" NavigateUrl="~/HandheldGames.aspx"></asp:MenuItem>
+                               
+                        </Items>
+
+                    </asp:Menu>
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style5">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" 
+                     runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+                <td class="auto-style2">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder2" 
+                     runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" class="auto-style1">
+                    Copyright 2015 - Wilman's Games&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

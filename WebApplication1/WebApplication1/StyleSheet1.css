@@ -1,0 +1,58 @@
+﻿
+
+
+body {
+    display:block;
+
+}
+
+h1 {
+    width: 476px;
+    height: 49px;
+    margin-right: 0px;
+}
+
+.MenuStyle {
+    background-color: orange;
+}
+
+table {
+}
+
+tr {
+    background:silver;
+}
+
+
+
+.auto-style1 {
+            height: 55px;
+        }
+
+
+.auto-style2 {
+            width:1024px;
+            height:768px;
+
+
+        }
+        
+
+.auto-style3 {
+            height: 106px;
+        }
+
+.auto-style4 {
+            height: 304px;
+        }
+
+
+   
+.auto-style5 {
+            width:1024px;
+            height:768px;
+
+
+        }
+           
+        
